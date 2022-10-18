@@ -257,7 +257,6 @@ import UploadService from "../services/equipments/UploadFilesService";
 import CategoryService from "../services/category/categoryService";
 import { parse } from "date-fns";
 import FileInfo from "../types/FileInfo";
-import { fil } from "date-fns/locale";
 @Options({
   components: {
     Datepicker,
